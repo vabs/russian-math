@@ -2,6 +2,8 @@
 
 This small application is inspired from an old russian method for calculating multiplication of two numbers.
 
+![Screenshot](https://user-images.githubusercontent.com/2936128/75737808-a89b7480-5cce-11ea-9c2e-294f63a4378f.png)
+
 ## Methodology
 
 1. The number on the left is halfed untill it reaches 1.
